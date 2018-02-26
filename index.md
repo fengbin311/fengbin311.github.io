@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# 欢迎访问我的个人网站！
 
-You can use the [editor on GitHub](https://github.com/fengbin311/fengbin311.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+！[](https://tuchong.com/1543546/16606178/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 个人简介
 
-### Markdown
+### 我是一个酷酷的暖男，优缺点可以概括为：
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 高
+- 酷
+- 暖
 
-```markdown
-Syntax highlighted code block
+### 当然了，我也有很多缺点：
 
-# Header 1
-## Header 2
-### Header 3
+- 富
+- 帅
 
-- Bulleted
-- List
+### 爱好广泛
 
-1. Numbered
-2. List
+- 音乐
+- 摄影
+- 书法
+- 诗词
+- 健身
+- 旅游
+- 妹子
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### 如果你想进一步了解我
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+欢迎访问我的 [新浪微博](https://weibo.com/5292958275/profile?topnav=1&wvr=6) ，你可以在这里了解我的生活！
 
-### Jekyll Themes
+如果你是个技术控，欢迎到[Github](https://github.com/fengbin311/)和我进行技术交流，相互学习，共同进步！
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fengbin311/fengbin311.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+当然，文艺青年可以在[简书](https://www.jianshu.com/u/3dc96e5f96e3)与我交流。
 
-### Support or Contact
+！[](https://tuchong.com/443122/15624611/)
+## 这个网站背后的技术支持
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Github造福了无数编程爱好者，如果你想看到背后的代码，可以看看此网站的[源码](https://github.com/fengbin311/fengbin311.github.io)。
+
+
+![](https://tuchong.com/394897/16395428/)
+
